@@ -46,26 +46,26 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="BroadControl.cs" />
-    <Compile Include="gamemanager.cs" />
-    <Compile Include="PieceB.cs">
+    <Compile Include="code\BroadControl.cs" />
+    <Compile Include="code\gamemanager.cs" />
+    <Compile Include="code\PieceB.cs">
       <SubType>Component</SubType>
     </Compile>
-    <Compile Include="Piece.cs">
+    <Compile Include="code\Piece.cs">
       <SubType>Component</SubType>
     </Compile>
-    <Compile Include="Form1.cs">
+    <Compile Include="code\Form1.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form1.Designer.cs">
+    <Compile Include="code\Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
-    <Compile Include="PieceW.cs">
+    <Compile Include="code\PieceW.cs">
       <SubType>Component</SubType>
     </Compile>
-    <Compile Include="Program.cs" />
+    <Compile Include="code\Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="Form1.resx">
+    <EmbeddedResource Include="code\Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">

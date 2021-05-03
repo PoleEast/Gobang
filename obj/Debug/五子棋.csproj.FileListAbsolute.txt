@@ -8,3 +8,13 @@ C:\Users\極東\Desktop\程式設計\VS C#\五子棋\obj\Debug\五子棋.csproj.
 C:\Users\極東\Desktop\程式設計\VS C#\五子棋\obj\Debug\五子棋.csproj.CoreCompileInputs.cache
 C:\Users\極東\Desktop\程式設計\VS C#\五子棋\obj\Debug\五子棋.exe
 C:\Users\極東\Desktop\程式設計\VS C#\五子棋\obj\Debug\五子棋.pdb
+C:\Users\極東\Desktop\程式設計\VS C#\gobang\bin\Debug\五子棋.exe.config
+C:\Users\極東\Desktop\程式設計\VS C#\gobang\bin\Debug\五子棋.exe
+C:\Users\極東\Desktop\程式設計\VS C#\gobang\bin\Debug\五子棋.pdb
+C:\Users\極東\Desktop\程式設計\VS C#\gobang\obj\Debug\五子棋.csprojAssemblyReference.cache
+C:\Users\極東\Desktop\程式設計\VS C#\gobang\obj\Debug\五子棋.Form1.resources
+C:\Users\極東\Desktop\程式設計\VS C#\gobang\obj\Debug\五子棋.Properties.Resources.resources
+C:\Users\極東\Desktop\程式設計\VS C#\gobang\obj\Debug\五子棋.csproj.GenerateResource.cache
+C:\Users\極東\Desktop\程式設計\VS C#\gobang\obj\Debug\五子棋.csproj.CoreCompileInputs.cache
+C:\Users\極東\Desktop\程式設計\VS C#\gobang\obj\Debug\五子棋.exe
+C:\Users\極東\Desktop\程式設計\VS C#\gobang\obj\Debug\五子棋.pdb
